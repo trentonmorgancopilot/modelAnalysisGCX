@@ -1,0 +1,12 @@
+K:\AosService\PackagesLocalDirectory\rsmGCX\rsmGCX\AxQuery\rsmGCXAllProjTransUnion.xml 132 KB XML File 4/8/2024 3:58:29 PM 4/8/2024 3:58:29 PM 4/8/2024 3:58:29 PM 2
+3478 			<Name>rsmGCXVendInvoiceJournalTransView</Name>
+3479 			<Table>rsmGCXVendInvoiceJournalTransView</Table>
+
+K:\AosService\PackagesLocalDirectory\rsmGCX\rsmGCX\AxView\rsmGCXVendInvoiceJournalTransView.xml 22 KB XML File 4/8/2024 3:58:33 PM 4/8/2024 3:58:33 PM 4/8/2024 3:58:33 PM 7
+3 	<Name>rsmGCXVendInvoiceJournalTransView</Name>
+6 public class rsmGCXVendInvoiceJournalTransView extends common
+43         DictView  thisView   = new DictView(tableNum(rsmGCXVendInvoiceJournalTransView));
+63         DictView  thisView   = new DictView(tableNum(rsmGCXVendInvoiceJournalTransView));
+126             tableStr(rsmGCXVendInvoiceJournalTransView),
+145             tableStr(rsmGCXVendInvoiceJournalTransView),
+
